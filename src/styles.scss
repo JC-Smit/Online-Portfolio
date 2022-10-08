@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+$primary-color: rgb(68, 4, 68);
+$secondary-color: #7f1a1a;
+$tertiary-color: rgba(255, 255, 255, 0.801);
+
+
+body {
+    background-color: $primary-color;
+}
+
+h1 {
+    color: $primary-color;
+}
